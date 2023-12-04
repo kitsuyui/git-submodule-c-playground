@@ -1,6 +1,8 @@
 [submodule "a"]
 	path = a
+	branch = main
 	url = git@github.com:kitsuyui/git-submodule-a-playground.git
 [submodule "b"]
 	path = b
+	branch = main
 	url = git@github.com:kitsuyui/git-submodule-b-playground.git
